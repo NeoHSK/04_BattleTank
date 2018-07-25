@@ -3,3 +3,4 @@ An open-world head-to-head tank fight with simple AI, terrain and advanced contr
 
 ## Example List
 * BT01 Intro, Notes & Assets
+* BT02 Setting Up a GitHub "Repo"
